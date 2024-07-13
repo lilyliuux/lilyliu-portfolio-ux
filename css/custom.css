@@ -1514,7 +1514,7 @@ img.scale-img {
 
 @media screen and (max-width: 1400px) {
     .more-projects .content .text-content {
-        width: 60%;
+        width: 100%;
         padding: 5px;
         padding-left: 12px;
         padding-left: 0;
