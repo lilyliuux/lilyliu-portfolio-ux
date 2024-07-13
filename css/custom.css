@@ -1201,12 +1201,6 @@ img.scale-img {
     font-weight: normal;
 }
 
-@media (max-width: 575.98px) {   
-    .about-banner .content small {       
-        font-size: 16px;     
-    }
-}
-
 .about-banner .content .box p {
     font-size: 18px;
     line-height: 31px;
@@ -1216,13 +1210,6 @@ img.scale-img {
     font-size: 23px;
     font-weight: 600;
     color: rgb(60, 140, 134);
-}
-
-@media (max-width: 575.98px) {
-    .about-banner .content h5 span {
-        font-size: 17px;        
-        line-height: 25px;
-    }
 }
 
 #abhd .menu-bottom {
