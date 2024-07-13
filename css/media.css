@@ -59,7 +59,11 @@
     }
 
     .more-projects .content {
-        height: 110px;
+        height: 230px;
+    }
+
+    .more-projects .custom-col{
+    width:250px;
     }
 
     .more-projects .content .content {
