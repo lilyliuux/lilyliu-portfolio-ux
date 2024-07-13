@@ -409,8 +409,7 @@
         font-size: 6px;
     }
 }
-
-@media (max-width: 991.98px) {
+@media (width:768px){
     .user-arch .content .box {
         height: auto;
     }
@@ -420,7 +419,7 @@
     } */
 
     .more-projects .content {
-        height: 105px;
+        height: 230px;
     }
 
     .more-projects .content .content {
@@ -457,6 +456,8 @@
         transition: .3s;
     }
 }
+@media (max-width: 991.98px) {
+    
 
 @media (max-width: 767.98px) {
     .battle_hero .content {
