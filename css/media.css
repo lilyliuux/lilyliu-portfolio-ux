@@ -409,7 +409,7 @@
         font-size: 6px;
     }
 }
-@media (width:768px){
+@media (max-width:768px){
     .user-arch .content .box {
         height: auto;
     }
