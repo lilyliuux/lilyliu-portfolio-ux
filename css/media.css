@@ -1,8 +1,8 @@
 /* home page */
 
-@media (max-width: 1350px) {
+@media (min-width: 1245px) {
     .battle_hero .content ul li {
-        font-size: 10px;
+        font-size: 12px;
     }
 
     .more-projects .content h6 {
@@ -28,12 +28,12 @@
     }
 
     .battle_hero .content h4 {
-        font-size: 20px;
+        font-size: 28px;
         margin-bottom: 8px;
     }
 
     .battle_hero .content p {
-        font-size: 12px !important;
+        font-size: 16px !important;
         line-height: normal !important;
         margin-bottom: 4px;
     }
@@ -43,7 +43,7 @@
     }
 
     .battle_hero .content .buttons .btn-primary {
-        font-size: 14px;
+        font-size: 16px;
         height: 36px;
         line-height: 29px;
         margin-bottom: 6px;
