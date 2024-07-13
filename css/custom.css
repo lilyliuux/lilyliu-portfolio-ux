@@ -873,6 +873,7 @@ section.user-arch p span {
     width: 60%;
     padding: 12px;
     padding-left: 12px;
+    padding-left: 0;
 }
 
 .more-projects .content .thumbnail {
@@ -1513,9 +1514,10 @@ img.scale-img {
 
 @media screen and (max-width: 1400px) {
     .more-projects .content .text-content {
-        width: 100%;
+        width: 60%;
         padding: 5px;
         padding-left: 12px;
+        padding-left: 0;
     }
 }
 
