@@ -409,8 +409,9 @@
         font-size: 6px;
     }
 }
-@media (max-width:768px){
-    .user-arch .content .box {
+
+@media (max-width: 991.98px) {
+      .user-arch .content .box {
         height: auto;
     }
 
@@ -419,7 +420,7 @@
     } */
 
     .more-projects .content {
-        height: 230px;
+        height: 105px;
     }
 
     .more-projects .content .content {
@@ -456,8 +457,9 @@
         transition: .3s;
     }
 }
-@media (max-width: 991.98px) {
-      .user-arch .content .box {
+
+@media (max-width:768px){
+    .user-arch .content .box {
         height: auto;
     }
 
@@ -466,7 +468,7 @@
     } */
 
     .more-projects .content {
-        height: 105px;
+        height: 230px;
     }
 
     .more-projects .content .content {
